@@ -46,13 +46,19 @@ Voici des KPI humoristiques pour nourrir tes réflexions nocturnes :
 
 De quoi alimenter tes rêves tech-parentaux ! 😄
 
-## Metriques auxquelles j'ai pensé (peut-être à renommer)
+## Metriques auxquelles j'ai pensé (peut-être à renommer) que j'aimerais garder pour l'article
 
 - mean time between wakeups : durée moyenne entre deux réveils nocturnes - temps rêvé = 10h, meilleure stat actuelle = 2h
 
 - niveau de criticité de la couche, quand est-ce qu'elle va déborder ? a-t-on encore le temps ou bien faut-il se battre pour la changer avant le débordement ?
 
-- compotes restantes avant pleurs déchirants parce qu'il n'y en a plus
+- seuil critique de décibel : 
+    - en excès --> douleur ? danger ? fatigue ? 
+    - nul --> bétise en cours ?
+
+- time to fall asleep : temps nécessaire à enfin réussir à lacher les enfants endormis dans leur lit
+
+- temps de réponse de maman
 
 ## Anecdotes
 
