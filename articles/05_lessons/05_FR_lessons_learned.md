@@ -1,9 +1,3 @@
-Parfait, j'applique toutes tes décisions.
-
-Voici la version finale de l'article avec l'ensemble des modifications intégrées.
-
------
-
 # J'ai lancé ma boîte et appris ma grossesse la même semaine
 
 ## Comment mon échec entrepreneurial est devenu mon meilleur bootcamp de Product Owner
