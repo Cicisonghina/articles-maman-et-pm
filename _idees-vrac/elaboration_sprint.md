@@ -503,3 +503,5 @@ c'est une passion, ça me permet d'utiliser mes main, de solliciter ma créativi
 ---
 
 **Voilà toutes les questions ! Prends ton temps pour y répondre. Je rédigerai ensuite les sections 5-10 en mode ÉPIQUE avec vocabulaire heroic fantasy/arts martiaux.** 🗡️✨
+
+- je chante "The eye of the tiger" à tue tête dans ma tête, et je me visualise en train de taper des lignes avec un imperméable comme un boxer sauterait à la corde pour perdre les derniers grammes afin de rentrer dans sa catégorie 
