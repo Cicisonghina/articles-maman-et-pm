@@ -227,3 +227,279 @@ je vais refaire à l'identique vu qu'ils ont adoré. Sinon j'essaie de proposer 
 c'est une passion, ça me permet d'utiliser mes main, de solliciter ma créativité, de manger quelque chose de bon à la fin (et je suis très gourmande). Par ailleurs, cela fait longtemps que je m'exerce, que je teste des recettes, que je lis, que j'écoute, que je m'informe, et ça donne enfin beaucoup de bons résultats. Comme en dev, quand on devient bon, on produit mieux
 
 ---
+
+# QUESTIONS COMPLÈTES - SECTIONS 5 À 10
+## Article "19h30 : Quand mon vrai sprint productif commence"
+
+**Instructions :** Réponds à ces questions quand tu as le temps. Détaille autant que possible avec des éléments sensoriels, des heures précises, des émotions. Je rédigerai ensuite chaque section en mode ÉPIQUE (50% humour noir + 20% heroic fantasy/arts martiaux).
+
+---
+
+## 📝 SECTION 5 : CARHORSEL - LE PRODUIT QUI GRANDIT LA NUIT
+
+### 1. La session d'hier soir (contexte)
+
+**Hier soir précisément, tu as travaillé sur quoi concernant Carhorsel/portfolio ?**
+- Tu dis "intuition sur la rétrospective Carhorsel"
+- C'était quoi exactement cette intuition ? (structure narrative ? section manquante ?)
+- Tu as travaillé combien de temps ? (jusqu'à minuit ?)
+- Qu'est-ce que tu as produit concrètement ?
+
+### 2. Le processus de travail nocturne
+
+**Comment tu travailles sur Carhorsel/portfolio la nuit ?**
+- Tu utilises quels outils ? (Notion, Claude, Gemini, Visual ?)
+- Tu fais quoi exactement ? (rédaction, structure, user research, roadmap ?)
+- Est-ce que tu testes des trucs ? Itères sur des features ?
+- Quel est ton workflow typique d'une soirée productive ?
+
+### 3. L'efficacité sous contrainte
+
+**Tu dis "contraintes = efficacité" :**
+- Concrètement, en quoi le fait d'avoir seulement 2h te rend PLUS efficace ?
+- Est-ce que tu prends des décisions plus rapidement ?
+- Est-ce que tu es plus focus sur l'essentiel ?
+- Un exemple concret d'une décision prise rapidement hier soir ?
+
+### 4. La différence jour/nuit
+
+**Pourquoi tu ne peux pas travailler sur Carhorsel en journée ?**
+- C'est juste les enfants ou autre chose ?
+- Est-ce que tu as déjà essayé pendant une sieste ? Ça marche pas ?
+- Qu'est-ce qui fait que la nuit, c'est différent ?
+
+### 5. Le parallèle Product Manager
+
+**En quoi développer Carhorsel la nuit te prépare au métier de PM ?**
+- Gestion de contraintes extrêmes ?
+- Priorisation forcée ?
+- Décisions rapides et justes ?
+- Autre chose ?
+
+---
+
+## 📝 SECTION 6 : CES ARTICLES - MA PENSINE EN ACTION
+
+### 1. Le processus de création
+
+**Comment tu passes de l'idée à l'article ?**
+- Tu dis "bits.md → structure → 1000 mots"
+- Détaille-moi ce process étape par étape
+- Combien de temps entre "j'ai une idée" et "article finalisé" ?
+- Tu fais des itérations ou tu rédiges d'une traite ?
+
+### 2. Le moment "ça sort"
+
+**Tu as déjà eu un moment où l'article s'écrivait tout seul ?**
+- C'était quel article ?
+- Quelle heure ? Quel contexte ?
+- Tu étais dans quel état mental ?
+- Combien de temps ça a pris ?
+
+### 3. La capture d'idées
+
+**Tu dis "trop d'idées, faut que ça sorte" :**
+- Comment tu captures tes idées en journée (avec les enfants) ?
+- Est-ce que tu perds des idées parce que tu ne peux pas les noter ?
+- bits.md, tu l'alimentes comment ? Quand ?
+- Un exemple d'idée capturée récemment ?
+
+### 4. Le rôle stratégique des articles
+
+**Ces articles, c'est pas juste un hobby :**
+- En quoi ils construisent ton portfolio PM ?
+- Qu'est-ce qu'ils démontrent concrètement ?
+- Comment tu vois un recruteur les lire ?
+
+### 5. La métaphore "Pensine"
+
+**Pourquoi "Pensine" (Harry Potter) te parle tant ?**
+- C'est l'idée de sortir les pensées de ta tête ?
+- De les stocker quelque part pour y revenir ?
+- De les transformer en quelque chose d'utilisable ?
+- Autre chose ?
+
+---
+
+## 📝 SECTION 7 : CE QUE JE LAISSE DE CÔTÉ (ET POURQUOI C'EST OK)
+
+### 1. L'anecdote "tu devrais te reposer" (hier soir)
+
+**Ton mari hier soir, il a dit quoi exactement ?**
+- "Mais tu n'avais pas dit que tu voulais dormir ?"
+- C'était quel ton ? Inquiet ? Résigné ? Taquin ?
+- Toi, tu as répondu quoi ?
+- Qu'est-ce que tu as pensé intérieurement ?
+
+### 2. L'anecdote "tu devrais te reposer" (cet après-midi)
+
+**Ton mari cet après-midi, sortie vélo :**
+- Il t'a proposé explicitement de te reposer ?
+- Il a dit quoi exactement ?
+- Toi, qu'est-ce que tu as fait à la place ? (cuisine + travail)
+- Il était surpris ? Compréhensif ? Autre ?
+
+### 3. Les sacrifices conscients
+
+**Pour chaque truc que tu laisses de côté, comment tu te sens VRAIMENT ?**
+
+**La nage palmée (mercredi 20h30) :**
+- Frustrée ?
+- En paix avec ce choix ?
+- Tu te dis "j'y retournerai" ou "tant pis" ?
+
+**L'équitation avec Vazy :**
+- Ça te manque vraiment ou c'est OK ?
+- Tu culpabilises vis-à-vis d'elle ?
+- Tu te dis quoi pour accepter ce choix ?
+
+**ArcNova avec ton mari :**
+- Vous en avez parlé récemment ?
+- Il comprend ou il râle un peu ?
+- Ça te manque les soirées jeux ?
+
+**La maison bien rangée :**
+- C'est un regret sincère ou tu t'en fous vraiment ?
+- Est-ce que ça te pèse le matin quand tu vois le chaos ?
+- Comment tu gères mentalement ce choix ?
+
+### 4. La métaphore "Dette technique consciente"
+
+**En Product Management, c'est quoi pour toi la dette technique consciente ?**
+- Tu as un exemple concret de ton expérience Ubisoft/ManoMano ?
+- Comment tu expliques ce concept à quelqu'un qui n'est pas tech ?
+- Pourquoi c'est une force de savoir dire "je fais ça mal maintenant pour mieux plus tard" ?
+
+### 5. "Dire non" comme compétence PM
+
+**Comment le fait de dire non tous les soirs te prépare au métier de PM ?**
+- Un PM passe son temps à dire non, non ?
+- Comment tu vois ce skill en action dans ton futur job ?
+- Un exemple où tu as dit non à quelque chose d'important récemment ?
+
+---
+
+## 📝 SECTION 8 : LE FLOW NOCTURNE - QUAND JE SUIS LA PLUS PRODUCTIVE
+
+### 1. Le paradoxe : épuisée mais productive
+
+**Hier soir, tu étais physiquement épuisée mais mentalement en feu :**
+- Décris-moi cet état précisément
+- C'était quoi les signes physiques de fatigue ?
+- C'était quoi les signes mentaux d'efficacité ?
+- Comment tu expliques ce paradoxe ?
+
+### 2. Le moment où ton cerveau s'emballe
+
+**Tu dis "mon cerveau était en ébullition" :**
+- C'était hier soir ou une autre fois ?
+- Ça a commencé comment ? (une idée qui en appelle une autre ?)
+- Tu aurais continué combien de temps sans le chien à sortir ?
+- Qu'est-ce qui t'a finalement fait arrêter ?
+
+### 3. Le flow : 2h valent plus que 8h
+
+**En quoi 2h de flow nocturne valent mieux que 8h dispersées ?**
+- Tu as des exemples concrets de production ?
+- Qu'est-ce qui fait la différence ? (silence, focus, deadline claire ?)
+- Est-ce que c'est toujours comme ça ou juste parfois ?
+
+### 4. Les conditions du flow
+
+**Qu'est-ce qui fait que tu entres en flow la nuit ?**
+- Le silence total ?
+- La deadline (le chien à sortir, ton mari qui attend) ?
+- La motivation intrinsèque ?
+- Le fait d'être seule ?
+- Autre chose ?
+
+### 5. L'avantage compétitif
+
+**En quoi cet "état productif paradoxal" est un atout pour un PM ?**
+- Capacité à performer sous pression ?
+- Focus intense malgré les contraintes ?
+- Efficacité maximale avec ressources minimales ?
+- Autre chose ?
+
+---
+
+## 📝 SECTION 9 : RESOURCE MANAGEMENT - COMMENT JE TIENS LE RYTHME
+
+### 1. La recharge par la création
+
+**Tu dis "je me ressource en créant, pas en consommant" :**
+- Explique-moi ça concrètement
+- Pourquoi créer te recharge alors que Netflix te viderait ?
+- Un exemple récent où tu as senti cette recharge ?
+
+### 2. Le ROI de l'énergie
+
+**Comment tu gères ton énergie comme un produit ?**
+- Tu calcules vraiment le ROI de ce que tu fais ?
+- Comment tu décides qu'une activité "vaut" ton énergie ?
+- Un exemple de calcul récent ?
+
+### 3. Le moment où Carhorsel/portfolio te redonne de l'énergie
+
+**Hier soir, tu étais fatiguée, tu as bossé, et après ?**
+- Tu étais PLUS fatiguée ou rechargée ?
+- Si rechargée : pourquoi ? Comment ?
+- Si plus fatiguée : c'était quelle fatigue ? (bonne fatigue ?)
+
+### 4. La gestion des pics et creux
+
+**Comment tu gères les moments où vraiment, t'en peux plus ?**
+- Tu as déjà eu des soirs où tu as dit "fuck, je dors" ?
+- Comment tu sais quand c'est le moment de lâcher vs continuer ?
+- Un exemple récent de chaque ?
+
+### 5. Le parallèle PM
+
+**En quoi cette gestion d'énergie te prépare au métier de PM ?**
+- Un PM doit gérer son énergie mentale sur des projets longs ?
+- Savoir quand pousser vs quand se reposer ?
+- Autre chose ?
+
+---
+
+## 📝 SECTION 10 : CONCLUSION - JE NE SUIS PAS QUE MAMAN
+
+**Note : Cette section est déjà rédigée dans le plan du checkpoint précédent. Je vais l'adapter en mode épique. Mais si tu veux ajouter/modifier quelque chose, dis-le moi !**
+
+### Structure actuelle (à adapter en ton épique)
+
+**Temps 1 : Le constat**
+> "Tous les soirs, je déploie une énergie folle pour construire. Seule. Dans ma cuisine. Avec un thé froid."
+
+**Temps 2 : Le pourquoi (DIMENSION IDENTITAIRE)**
+> "Parce que j'ai toujours rêvé d'être maman. Et j'adore ça. Vraiment. Mais je ne suis pas **que** maman.
+>
+> Je suis une **femme**. Je suis une **intellectuelle**. Je suis une **créative**. Je suis un **être social**. Je suis une **sportive** (enfin, j'essaie). Je suis plein de choses à la fois.
+>
+> Et c'est précisément ça qui me donne envie de me lever le matin : ne pas être limitée à un rôle, une facette, un intérêt.
+>
+> Quand les enfants dorment et que j'ouvre mon ordinateur au lieu de Netflix, ce n'est pas parce que je fuis la maternité. C'est parce que **j'ai besoin de nourrir toutes ces autres parties de moi**.
+>
+> La mère qui câline ses enfants à 7h du matin et la PM qui structure une roadmap à 20h le soir ? C'est la même personne. Et ces deux facettes se nourrissent mutuellement."
+
+**Temps 3 : L'objectif**
+> "Cette capacité à jongler entre mes identités, à prioriser sans renoncer, à construire dans les interstices... c'est exactement ce qu'un Product Manager fait au quotidien.
+>
+> Sauf que moi, je le fais déjà. Dans ma cuisine. À 19h30. Avec Netflix fermé et Notion ouvert.
+>
+> Ce que je veux maintenant ? Canaliser cette énergie dans un cadre d'équipe. Construire des produits avec d'autres. Avoir l'infrastructure, les ressources, les utilisateurs. Ne plus être seule devant mon écran, mais entourée d'une équipe qui partage la même vision.
+>
+> Mon sprint du soir se termine à 22h. Mon prochain sprint professionnel commence en janvier 2026.
+>
+> Et cette fois, je ne serai plus seule. Je serai **entière**."
+
+### Questions pour toi (optionnel)
+
+**Y a-t-il quelque chose que tu veux ajouter/modifier dans cette conclusion ?**
+- Une autre facette de toi à mentionner ?
+- Un autre message à faire passer ?
+- Une autre formulation pour "entière" ?
+
+---
+
+**Voilà toutes les questions ! Prends ton temps pour y répondre. Je rédigerai ensuite les sections 5-10 en mode ÉPIQUE avec vocabulaire heroic fantasy/arts martiaux.** 🗡️✨
