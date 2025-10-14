@@ -259,6 +259,8 @@ Si je travaille vraiment sur carhorsel de nuit, j'ai mes outils de dev ouverts :
 
 en ce moment, je fais plus une rétrospective et des réflexions sur où on en est, quel travail a été effectué, ce qu'il reste à faire et surtout je mets mes apprentissages dans mon portfolio sur notion.
 
+mais sinon on travaille énormément en marchant dans la forêt et poussant les poussettes. On discute du business plan, des persona, de l'architecture, de l'algorithme. Il nous manque juste du temps d'écran pour implémenter.
+
 ### 3. L'efficacité sous contrainte
 
 **Tu dis "contraintes = efficacité" :**
@@ -267,7 +269,7 @@ en ce moment, je fais plus une rétrospective et des réflexions sur où on en e
 - Est-ce que tu es plus focus sur l'essentiel ?
 - Un exemple concret d'une décision prise rapidement hier soir ?
 
-j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne pourrai pas atteindre la perfection et surtout pas en une soirée potentiellement interrompue par des pleurs. ça me fait travailler sur ma résilience.
+j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne pourrai pas atteindre la perfection et surtout pas en une soirée potentiellement interrompue par des pleurs. ça me fait travailler sur ma résilience. Et j'ai appris à me "mettre dedans", à fond, très vite.
 
 ### 4. La différence jour/nuit
 
@@ -275,6 +277,8 @@ j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne po
 - C'est juste les enfants ou autre chose ?
 - Est-ce que tu as déjà essayé pendant une sieste ? Ça marche pas ?
 - Qu'est-ce qui fait que la nuit, c'est différent ?
+
+en fait je n'arrive pas à faire dormir mes enfants et en particulier mon grand. D'où l'impossibilité de travailler en journée. Le soir, mon mari est à la maison et prend le relai, me laissant du temps pour travailler.
 
 ### 5. Le parallèle Product Manager
 
@@ -296,6 +300,10 @@ j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne po
 - Combien de temps entre "j'ai une idée" et "article finalisé" ?
 - Tu fais des itérations ou tu rédiges d'une traite ?
 
+Chaque article est différents. Pour certains, c'est très rapide. D'autres (comme celui-ci) demandent plus de temps, plus de travail. Parce que je veux du bon contenu, parce que je veux que la forme soit top et parce que c'est une pièce maitresse de la série. Au plus rapide, j'ai réussi à écrire 2 articles en une soirée. Mais pour celui-ci, j'ai déjà passé une dizaine d'heures et n'en suis qu'à la moitié.
+
+Je discute pas mal avec toi ou avec Gemini pour débroussailler l'idée, le thème. Puis je note toutes les anecdotes qui me semblent pertinentes. Puis on lance un draft ensemble et je retravaille le style et la forme.
+
 ### 2. Le moment "ça sort"
 
 **Tu as déjà eu un moment où l'article s'écrivait tout seul ?**
@@ -303,6 +311,8 @@ j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne po
 - Quelle heure ? Quel contexte ?
 - Tu étais dans quel état mental ?
 - Combien de temps ça a pris ?
+
+Je n'ai jamais de temps mort dans cette série. Tout s'écrit vite. C'est juste la forme finale qui met plus de temps à sortir parce qu'il faut faire le tri parmis toutes mes idées. C'est un peu comme les pokémon. Certains ont plusieurs évolutions (comme l'article en cours). D'autres ont directement leur forme finale comme les pokemon légendaires.
 
 ### 3. La capture d'idées
 
@@ -312,12 +322,16 @@ j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne po
 - bits.md, tu l'alimentes comment ? Quand ?
 - Un exemple d'idée capturée récemment ?
 
+Tout mon dossier "idées vracs" est pleins d'idées. En journée j'ai rarement le loisir de capturer mes idées. J'essaie avec mon téléphone mais c'est très compliqué parce que j'écris beaucoup moins vite que sur mon clavier d'ordinateur, parce que c'est quasiment impossible de ne pas être interrompmue par un "photo?" de mon fils. Souvent c'est qaund les 2 sont dans la poussette double et que je tiens mon chien en laisse. DOnc ce n'est pas évident d'écrire ^^'
+
 ### 4. Le rôle stratégique des articles
 
 **Ces articles, c'est pas juste un hobby :**
 - En quoi ils construisent ton portfolio PM ?
 - Qu'est-ce qu'ils démontrent concrètement ?
 - Comment tu vois un recruteur les lire ?
+
+Ca m'aide à me préparer à mes entretiens. C'est une retro sur ma vie, sur les copétences que je dois solliciter au quotidien et ou que j'ai sollicitées lors de mes projets. Un recruteur peut lire des choses que je pourrais ne pas réussir à expliquer en entretien par manque de temps ou d'occasion.
 
 ### 5. La métaphore "Pensine"
 
@@ -327,6 +341,8 @@ j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne po
 - De les transformer en quelque chose d'utilisable ?
 - Autre chose ?
 
+
+c'est ça de les sortir, de les analyser, les contempler, les voir sous un jour nouveau et les exploiter pour le futur. Et en meme temps alléger mon esprit.
 ---
 
 ## 📝 SECTION 7 : CE QUE JE LAISSE DE CÔTÉ (ET POURQUOI C'EST OK)
