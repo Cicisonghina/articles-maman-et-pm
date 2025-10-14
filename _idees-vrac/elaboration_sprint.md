@@ -245,6 +245,8 @@ c'est une passion, ça me permet d'utiliser mes main, de solliciter ma créativi
 - Tu as travaillé combien de temps ? (jusqu'à minuit ?)
 - Qu'est-ce que tu as produit concrètement ?
 
+j'ai travaillé 3h sur des sections manquantes, des enrichissements, des reformulations, une meilleure présentation visuelle, de l'optimisation 
+
 ### 2. Le processus de travail nocturne
 
 **Comment tu travailles sur Carhorsel/portfolio la nuit ?**
@@ -253,6 +255,10 @@ c'est une passion, ça me permet d'utiliser mes main, de solliciter ma créativi
 - Est-ce que tu testes des trucs ? Itères sur des features ?
 - Quel est ton workflow typique d'une soirée productive ?
 
+Si je travaille vraiment sur carhorsel de nuit, j'ai mes outils de dev ouverts : un terminal, vscode et mon navigateur. mais en ce moment on a un peu mis de côté le dev parce que nous n'avons pas assez de temps. nous brainstorming beaucoup. J'écris beaucoup dans un cahier parce que ça me permet parfois de le faire alors que les enfants sont dans les alentours. Éventuellement la nuit on fait un peu de veille sur les concurrents, on peaufine les questionnaires et j'échange avec les utilisateurs potentiels.
+
+en ce moment, je fais plus une rétrospective et des réflexions sur où on en est, quel travail a été effectué, ce qu'il reste à faire et surtout je mets mes apprentissages dans mon portfolio sur notion.
+
 ### 3. L'efficacité sous contrainte
 
 **Tu dis "contraintes = efficacité" :**
@@ -260,6 +266,8 @@ c'est une passion, ça me permet d'utiliser mes main, de solliciter ma créativi
 - Est-ce que tu prends des décisions plus rapidement ?
 - Est-ce que tu es plus focus sur l'essentiel ?
 - Un exemple concret d'une décision prise rapidement hier soir ?
+
+j'apprends à mieux prioriser et à iterer plus rapidement. Je sais que je ne pourrai pas atteindre la perfection et surtout pas en une soirée potentiellement interrompue par des pleurs. ça me fait travailler sur ma résilience.
 
 ### 4. La différence jour/nuit
 
