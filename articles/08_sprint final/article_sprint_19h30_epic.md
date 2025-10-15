@@ -40,11 +40,11 @@ Mon grand résiste. Mon petit sourit. Un bisou baveux. La porte se referme.
 
 Autour de moi, l'arène après la bataille : jouets explosés sur le sol, table maculée de yaourt, vaisselle en pagaille dans l'évier. Le panier de linge déborde. La poubelle à couches attend. Une odeur de soupe au chou plane. Je ne la sens même plus.
 
-Je devrais ranger.
+Je devrais ranger. 
 
 Je culpabilise. 2,5 secondes. Chrono.
 
-Mon corps réclame une trêve. Je m'effondre sur le canapé. Dos meurtri. Muscles tendus. Jambes lourdes. J'ai porté mes gremlins toute la journée. Des petites mains ont volé mon dessert.
+Mon corps réclame une trêve. Je m'effondre sur le canapé. Dos meurtri. Muscles tendus. Jambes lourdes. J'ai porté mes gremlins toute la journée. Des petites mains ont volé mon dessert. 
 
 Mon corps a mené mille batailles aujourd'hui.
 
@@ -70,7 +70,7 @@ Hier soir, j'avais décidé de dormir. Livre, pyjama, extinction des feux. Plan 
 
 **Plan ignoré.**
 
-20h30, mon mari disparaît avec les garçons. J'ouvre Notion. Juste pour vérifier un truc. Une section à compléter. Une idée.
+20h30, mon mari disparaît avec les garçons. J'ouvre Notion. Juste pour vérifier un truc. Une section à compléter. Une idée. 
 
 Minuit.
 
@@ -78,23 +78,15 @@ Voilà mon arsenal actuel :
 
 **Portfolio Product Owner** : En cours. Deadline janvier. Non négociable.
 
-**Série d'articles PM&Maman** : 4 publiés, 5 en cours. Mission : prouver mes compétences via storytelling.
+**Série d'articles PM&Maman** : 4 publiés, 5 en cours. Rythme : toutes les 2-3 semaines. Mission : prouver mes compétences via storytelling.
 
-**Recherche d'emploi active** : CV, LinkedIn, offres, candidatures. Veille quotidienne. Combat de tous les jours.
+**Recherche d'emploi active** : CV, LinkedIn, offres, candidatures. Veille quotidienne. Networking. Combat de tous les jours.
 
-**Carhorsel** : Mon produit. En stand-by temporaire. Mon mari et moi, on a reporté le projet à des jours plus calmes.
+**Carhorsel** : Mon produit. En stand-by temporaire parce que le coucher des enfants est mission impossible en ce moment. Mon mari et moi, on a reporté le projet à des jours plus calmes.
 
-**Maison à rénover** : Entièrement. Accessoirement.
+**Maison à rénover** : Entièrement. Accessoirement. Un jour.
 
-Et ce que je n'ai PAS le temps de faire :
-
-**Nage palmée** : Inscrite. Mercredi 20h30. Nombre de séances : 0. Je garde l'espoir.
-
-**Équitation** : Ma jument m'attend.
-
-**Nos jeux de société** : ArcNova dort sur l'étagère. Aeon's End attend le prochain scénario.
-
-**Maison rangée** : Le mythe.
+Et en face, la liste des sacrifices : la **nage palmée** (0 séance cette année), ma **jument** qui m'attend, et nos jeux de société qui prennent la poussière. **ArcNova** dort sur l'étagère. **Aeon's End** attend qu'on termine le prochain scénario. Quant à la **maison rangée**... c'est devenu un mythe.
 
 6 projets actifs. 4 en attente. 2h par soir. Maximum.
 
@@ -114,7 +106,7 @@ Alors je prends ce que j'ai : 20h30-23h, trois fois par semaine.
 
 **Et j'essaie de tout faire rentrer.**
 
-Spoiler : ça ne rentre pas.
+Spoiler : ça ne rentre pas. 
 
 **Mais j'attaque quand même.**
 
@@ -145,6 +137,7 @@ Je regarde l'heure. 20h37.
 Pas parce que c'est urgent. Pas parce que c'est facile.
 
 **Parce que c'est du L.**
+
 Comme Leverage. Le concept de Shreyas Doshi qui change tout : certaines tâches ont un effet de levier massif sur ton futur. D'autres, non.
 
 En Product Management, on appelle ça **prioriser par impact**. Ce soir, mon portfolio a le ROI maximal. Janvier approche. L'intuition que j'ai va s'évaporer si je ne la capture pas. Mon cerveau est lancé. Changer de contexte me coûterait 20 minutes.
@@ -167,7 +160,7 @@ Dimanche midi. Retour du marché. Trois potimarrons. Une tranche de poitrine fum
 
 **Parfait pour un risotto.**
 
-Mes garçons jouent sur le balcon avec leur papa. Je les entends rire. Le soleil d'automne les fait briller.
+Mes garçons jouent sur le balcon avec leur papa. Je les entends rire. Le soleil d'automne les fait briller. 
 
 Nous sommes heureux.
 
@@ -179,7 +172,7 @@ Je commence. Oignons revenus. Doucement. Poitrine fumée pour le goût. Riz nacr
 
 **Le twist : amaretto au lieu de vin blanc.**
 
-J'ai lu dans mes livres de cuisine que l'amande et le potimarron se marient. J'ai une bouteille d'amaretto qui traîne.
+J'ai lu dans mes livres de cuisine que l'amande et le potimarron se marient. J'ai une bouteille d'amaretto qui traîne. 
 
 **Je teste.**
 
@@ -187,10 +180,10 @@ Quelques cuillères. Juste assez pour que l'amande enrobe le potimarron sans l'�
 
 **Test-Driven Development :**
 
-1.  **Hypothèse** : Amaretto + potimarron = victoire
-2.  **Test** : Faire le risotto, observer
-3.  **Feedback** : Compter les reprises
-4.  **Itération** : Ajuster ou valider
+1. **Hypothèse** : Amaretto + potimarron = victoire
+2. **Test** : Faire le risotto, observer
+3. **Feedback** : Compter les reprises
+4. **Itération** : Ajuster ou valider
 
 Je mélange. Lentement. J'ajoute le bouillon louche par louche. Le riz gonfle. Le potimarron fond. Texture crémeuse.
 
@@ -226,11 +219,11 @@ Hier soir, 20h37. Portfolio ouvert. Notion chargé. Claude à portée de main.
 
 **3 heures devant moi.**
 
-Pas de développement cette fois. Le coucher des enfants est mission impossible en ce moment, alors mon mari et moi, on a mis le dev en stand-by.
+Pas de développement cette fois. Pas de code. Pas de terminal ni de Visual Studio. Le coucher des enfants est mission impossible en ce moment, alors mon mari et moi, on a mis le dev en stand-by.
 
 Ce soir, c'est rétrospective.
 
-Je relis ce qu'on a construit. Je documente nos apprentissages. Je structure notre parcours pour mon portfolio. Optimisation.
+Je relis ce qu'on a construit. Je documente nos apprentissages. Je structure notre parcours pour mon portfolio. Sections manquantes. Reformulations. Présentation visuelle. Optimisation.
 
 **Carhorsel ne dort pas. Il se forge dans l'ombre.**
 
@@ -238,23 +231,29 @@ La vraie magie ? Elle ne se passe pas devant l'écran.
 
 Elle se passe dans la forêt. En marchant. Deux poussettes. Un chien en laisse. Mon mari à mes côtés.
 
-On discute du business plan. Des personas. De l'architecture. On brainstorme pendant des heures. On revient à la maison avec une roadmap mentale complète.
+On discute du business plan. Des personas. De l'architecture. De l'algorithme. Les idées fusent. Les enfants dorment ou babillent. Le chien renifle. Nous, on construit.
+
+**Le terrain d'entraînement parfait.**
+
+Pas de distractions. Pas d'écran. Juste nos cerveaux qui s'emballent et nos voix qui s'entremêlent. On brainstorme pendant des heures. On revient à la maison avec une roadmap mentale complète.
 
 Il nous manque juste une chose : **le temps d'écran pour implémenter.**
 
 Mais ça viendra.
 
-Pour l'instant, je forge mes compétences PM autrement : user research, veille concurrentielle, échanges. J'écris dans un cahier pendant que les enfants jouent. Je capture les idées entre deux cris.
+Pour l'instant, je forge mes compétences PM autrement : user research par questionnaires, veille concurrentielle nocturne, échanges avec des utilisateurs potentiels. J'écris dans un cahier pendant que les enfants jouent. Je capture les idées entre deux cris.
 
 **Je m'adapte. Je priorise. J'itère.**
 
-La contrainte de temps me rend meilleure. Pas le choix. Avec seulement 2h par soir, potentiellement interrompues, je n'ai pas le luxe de la perfection.
+La contrainte de temps me rend meilleure. Pas le choix. Avec seulement 2h par soir, potentiellement interrompues par des pleurs, je n'ai pas le luxe de la perfection.
 
 J'apprends à prioriser brutalement. À itérer plus vite. À me "mettre dedans" à fond en quelques secondes.
 
-Je deviens une **chirurgienne de la productivité.**
+**Je deviens une chirurgienne de la productivité.**
 
 Chaque minute est un instrument. Chaque action est une incision précise. Pas de geste superflu. Pas de temps pour l'hésitation. Je visualise l'objectif et j'opère. Direct. Clinique. Efficace.
+
+La nuit, quand tout le monde dort et que mon mari prend le relais, je tape sur mon clavier avec la précision d'un scalpel. Détermination dans les doigts. Focus absolu.
 
 **Je me forge.**
 
@@ -264,15 +263,15 @@ Carhorsel grandit la nuit. Mais moi aussi.
 
 ## 6. Ces Articles - Ma Pensine en Action
 
-Certains articles sortent comme des Pokémon légendaires. Complets dès leur apparition.
+Certains articles sortent comme des Pokémon légendaires. Complets dès leur apparition. Parfaits. Prêts au combat.
 
-D'autres évoluent. Ils commencent comme des Évoli et se transforment.
+D'autres évoluent. Ils commencent comme des Évoli et se transforment progressivement selon le terrain, l'entraînement, la pierre d'évolution que je leur donne.
 
 **Cet article ? C'est un Dracolosse.**
 
 Il a fallu 10 heures pour arriver à mi-chemin. Et il en faudra encore autant. Parce que c'est une pièce maîtresse. Parce que le fond ET la forme comptent. Parce que c'est le pivot de toute ma série.
 
-D'autres soirs, j'ai rédigé 2 articles complets en une soirée. Flow total.
+D'autres soirs, j'ai rédigé 2 articles complets en une soirée. Flow total. Les idées coulaient. Les mots sortaient. Pas besoin de chercher. Tout était là.
 
 **Mais celui-là résiste. Et c'est bon signe.**
 
@@ -280,30 +279,30 @@ Quand un Pokémon résiste, c'est qu'il est puissant.
 
 Mon process ?
 
-1.  **Brainstorming avec Claude ou Gemini** : Je débroussaille l'idée.
-2.  **Capture dans bits.md** : Je note les anecdotes.
-3.  **Structure** : On monte le squelette.
-4.  **Rédaction** : Je tape. Je retravaille. Je peaufine.
+1. **Brainstorming avec Claude ou Gemini** : Je débroussaille l'idée, le thème, l'angle.
+2. **Capture dans bits.md** : Je note toutes les anecdotes pertinentes.
+3. **Structure** : On monte le squelette ensemble.
+4. **Rédaction** : Je tape. Je retravaille. Je peaufine.
 
 Le problème ? **Trop d'idées. Pas assez de temps pour les capturer.**
 
-En journée, je suis avec mes gremlins. Pas d'écran. Pas de notes sereines. Mon fils qui me voit avec mon téléphone ? "Photo ?" toutes les 30 secondes.
+En journée, je suis avec mes gremlins. Pas d'écran. Pas de notes sereines. Mon téléphone ? Trop lent. Mon fils qui me voit avec ? "Photo ?" toutes les 30 secondes.
 
-J'essaie de noter en conduisant la poussette double, chien en laisse. Mission impossible.
+J'essaie de noter en conduisant la poussette double, chien en laisse. Autant dire que c'est mission impossible.
 
 Alors je stocke. Dans ma tête. Comme une Pensine mentale qui déborde.
 
-Le soir, quand le silence revient, j'ouvre ma vraie Pensine : mon ordinateur. Et je vide. Je sors les pensées. Je les analyse. Je les exploite pour construire mon futur.
+Le soir, quand le silence revient, j'ouvre ma vraie Pensine : mon ordinateur. Et je vide. Je sors les pensées. Je les analyse. Je les contemple sous un jour nouveau. Je les exploite pour construire mon futur.
 
 **Et j'allège mon esprit.**
 
 Ces articles ne sont pas un hobby. Ce sont mes armes.
 
-Chaque texte prépare mes entretiens. Chaque métaphore affûte ma réflexion. Chaque anecdote démontre une compétence.
+Chaque texte prépare mes entretiens. Chaque métaphore affûte ma réflexion. Chaque anecdote démontre une compétence PM que je pourrais ne pas réussir à expliquer en 45 minutes face à un recruteur.
 
 **Ma Pensine est mon arsenal.**
 
-Et je la remplis chaque nuit.
+Et je la remplis chaque nuit. Une pensée à la fois. Un mot après l'autre.
 
 ---
 
@@ -313,11 +312,11 @@ Et je la remplis chaque nuit.
 
 **L'équitation avec Vazy.** Ma jument m'attend. Je ne viens pas assez.
 
-**ArcNova sur la table.** Mon mari et moi adorons les jeux. La boîte dort.
+**ArcNova sur la table.** Mon mari et moi adorons les jeux de société. La boîte dort.
 
 **La maison bien rangée.** Le mythe absolu.
 
-Je pourrais culpabiliser. Me dire que je néglige mon corps, ma jument, mon couple, mon intérieur.
+Je pourrais culpabiliser. Me dire que je devrais faire mieux. Que je néglige mon corps, ma jument, mon couple, mon intérieur.
 
 **Mais je ne subis pas ces choix. Je les fais.**
 
@@ -331,21 +330,13 @@ Parce que **livrer vite > livrer parfait**.
 
 Moi, c'est pareil.
 
-Je *sais* que ma maison est un chantier. Je *sais* que mon dos aurait besoin de sport. Je *sais* que mon couple mérite du temps.
+Je *sais* que ma maison est un chantier. Je *sais* que mon dos aurait besoin de sport. Je *sais* que mon couple mérite du temps. Je *sais* que Vazy aimerait me voir plus souvent.
 
 Mais je choisis de construire mon futur professionnel **maintenant**. Et de gérer le reste... plus tard.
 
-La nage palmée ? Mon corps est en miettes et mon esprit en ébullition. Ce n'est pas la priorité ce trimestre.
-
-Vazy ? Elle comprend. Enfin, j'espère.
-
-ArcNova ? Mon mari comprend parfaitement. On se rattrapera samedi.
-
-La maison ? Il y a plus important dans la vie. Genre : devenir Product Manager.
-
 **Dire non est une compétence de PM.**
 
-Un Product Manager passe sa vie à dire non. Aux features qui ne créent pas de valeur. Aux demandes qui dispersent l'équipe.
+Un Product Manager passe sa vie à dire non. Aux features qui ne créent pas de valeur. Aux demandes qui dispersent l'équipe. Aux projets qui diluent la vision.
 
 Moi, je m'entraîne tous les soirs.
 
@@ -359,7 +350,7 @@ L'une te détruit. L'autre, tu la pilotes.
 
 Je sais ce que je laisse de côté. Je sais pourquoi. Et je sais quand j'y reviendrai.
 
-**En janvier 2026, quand j'aurai signé mon contrat PM, je replongerai dans la piscine.**
+**Dès que j'aurai signé mon contrat PM, je replongerai dans la piscine.**
 
 Promis.
 
@@ -389,23 +380,23 @@ Précis. Fluide. Imparable.
 
 **Le silence.** Pas de "Maman !" toutes les 30 secondes.
 
-**La deadline.** Le chien à sortir. Mon mari qui m'attend. 22h, c'est fini.
+**La deadline.** Le chien à sortir. Mon mari qui m'attend. 22h, c'est fini. Pas le choix.
 
 **La motivation pure.** Personne ne m'oblige. C'est MON choix. MA quête.
 
-**La solitude.** Enfin seule avec mes pensées. Zéro interruption. Flow pur.
+**La solitude.** Enfin seule avec mes pensées. Aucun context switch. Zéro interruption. Flow pur.
 
 Je me visualise comme Rocky. *Eye of the tiger* en boucle dans ma tête. Je tape sur mon clavier comme il frappe le sac. Imperméable imaginaire. Sueur réelle. Détermination totale.
 
 **Chaque ligne de code mental compte. Chaque mot forgé m'entraîne.**
 
-En journée, avec les enfants ? Impossible de canaliser ce flow. Trop de context switch.
+En journée, avec les enfants ? Impossible de canaliser ce flow. Trop de context switch. Trop d'interruptions. Mon esprit rebondit comme une balle entre dix urgences simultanées.
 
 Mais la nuit ?
 
 **La nuit, je suis une guerrière au sommet de son art.**
 
-Ce paradoxe est mon avantage compétitif. Ma capacité à performer malgré la fatigue. À rester focus malgré les contraintes.
+Ce paradoxe est mon avantage compétitif. Ma capacité à performer malgré la fatigue. À rester focus malgré les contraintes. À produire un maximum avec des ressources minimales.
 
 **Exactement ce qu'un Product Manager fait au quotidien.**
 
@@ -425,7 +416,7 @@ La question qu'on me pose : "Mais tu ne te reposes jamais ?"
 
 La réponse : **Je me repose en créant.**
 
-Netflix me viderait. Scroller sur Instagram m'épuiserait.
+Netflix me viderait. Scroller sur Instagram m'épuiserait. Regarder des séries me laisserait creuse.
 
 **Mais créer ? Créer me recharge.**
 
@@ -455,15 +446,15 @@ Je gère mon énergie comme un produit. Chaque activité a un coût. Chaque acti
 
 Je ne suis pas masochiste. J'ai des limites. Il y a des soirs où je dis "fuck, je dors".
 
-Quand mon corps est vraiment à bout. Quand mon esprit ne suit plus.
+Quand mon corps est vraiment à bout. Quand mon esprit ne suit plus. Quand je sens que forcer serait contre-productif.
 
 **Mais ces soirs-là sont rares.**
 
-Parce que la création me porte. Parce que construire mon futur me donne de l'énergie.
+Parce que la création me porte. Parce que construire mon futur me donne de l'énergie. Parce que chaque ligne tapée est une victoire.
 
 **Un Product Manager doit savoir gérer son énergie sur le long terme.**
 
-Savoir quand pousser. Quand se reposer. Quand sprinter. Quand récupérer.
+Savoir quand pousser. Quand se reposer. Quand sprint. Quand récupérer.
 
 Moi, je m'entraîne depuis des mois.
 
@@ -525,7 +516,7 @@ Construire des produits avec d'autres. Avoir l'infrastructure, les ressources, l
 
 Mon sprint du soir se termine à 22h.
 
-**Mon prochain sprint professionnel commence en janvier 2026.**
+**Mon prochain sprint professionnel commence dès que je trouve un mode de garde.**
 
 Et cette fois, je ne serai plus seule.
 
@@ -533,8 +524,17 @@ Et cette fois, je ne serai plus seule.
 
 ---
 
-**Et vous ? Qu'est-ce que vous forgez quand tout le monde dort ?**
+## 💬 Et vous ? Qu'est-ce que vous forgez quand tout le monde dort ?
 
-Si cet article résonne, mon portfolio Product Manager vous attend : [lien]. Disponible pour échanges et opportunités dès janvier 2026.
+**Racontez-moi en commentaire : quelle partie de vous-même nourrissez-vous quand personne ne regarde ? Quel projet secret se construit dans vos soirées ?**
 
-*Maman de deux tornades humaines, ex-Chaos Engineer, Product Manager. Je transforme les contraintes en terrain d'entraînement. Mon thé est toujours froid, mais mes compétences sont affûtées.*
+Si cet article résonne, j'aimerais échanger avec vous. Mon portfolio Product Owner vous attend, avec mes projets, mes compétences, et la preuve que je ne me contente pas de théoriser : je construis.
+
+**👉 [Découvrir mon portfolio](https://tar-hawk-fa8.notion.site/Portfolio-Product-Owner-Cecilia-DI-MAULO-27bd1b694d528029a1e9c2258667a3bf)**
+
+Disponible dès que j'ai un mode de garde pour mes enfants.
+
+---
+
+**Cecilia DI MAULO**
+*Maman de deux tornades humaines, ex-Chaos Engineer, future Product Manager. Je transforme les contraintes en terrain d'entraînement. Mon thé est toujours froid, mais mes compétences sont affûtées.*

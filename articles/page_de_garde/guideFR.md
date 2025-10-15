@@ -28,19 +28,19 @@ Chaque article est une étape de ma quête. Du diagnostic du terrain à la maît
 
 *Ici, je vous montre le chaos brut. Les défis, les contraintes, l'environnement dans lequel j'ai forgé mes premières armes.*
 
-**Article 0 : [Bienvenue dans mon backlog personnel](lien)**
+**Article 0 : [Bienvenue dans mon backlog personnel](https://medium.com/@cecidimaulo/article-0-bienvenue-dans-mon-backlog-personnel-77c5ba4f7e44)**
 Le manifeste fondateur. Le moment où j'ai décidé d'arrêter de choisir entre mes identités pour les fusionner en une force unique.
 
-**Article 1 : [Nuits InfernalOps](lien)**
+**Article 1 : [Nuits InfernalOps](https://medium.com/@cecidimaulo/nuits-infernalops-quand-mon-b%C3%A9b%C3%A9-devient-ladmin-sys-de-mes-cauchemars-2a4a3223ba42)**
 *Compétence : Gestion d'incident.* Comment mes nuits sont devenues des astreintes de production qui m'ont appris la résilience sous une pression extrême.
 
-**Article 2 : [Debug d'une jument stressée](lien)**
+**Article 2 : [Debug d'une jument stressée](https://medium.com/@cecidimaulo/debug-dune-jument-stress%C3%A9e-ca6ef7f0c752)**
 *Compétence : Empathie utilisateur.* Comment une jument m'a enseigné la user research avec des êtres non-verbaux, bien avant que je connaisse le terme.
 
-**Article 3 : [Resource Management parental](lien)**
+**Article 3 : [Resource Management parental](https://medium.com/@cecidimaulo/ressource-management-parental-0e3eb066855d)**
 *Compétence : Allocation de ressources.* Piloter quand la CPU tourne à 94%, que la RAM est saturée et que le budget est à zéro.
 
-**Article 4 : [Product Manager de deux tornades humaines](lien)**
+**Article 4 : [Product Manager de deux tornades humaines](https://medium.com/@cecidimaulo/product-owner-de-deux-tornades-humaines-fe6629a2de49)**
 *Compétence : Monitoring & Observabilité.* Les 5 métriques que je traque en permanence pour que le système familial ne parte pas en production outage.
 
 ---
@@ -84,9 +84,9 @@ Tes expériences "non professionnelles" ne sont pas des trous dans ton CV. Ce so
 
 ---
 
-**Je serai disponible pour de nouveaux défis en Product Management dès janvier 2026.**
+**Je suis disponible dès maintenant pour de nouveaux défis en Product Management.**
 
-**Découvre mes études de cas et projets sur mon [Portfolio de Product Manager](lien).**
+**Découvrez mes études de cas et projets sur mon [Portfolio de Product Manager](https://tar-hawk-fa8.notion.site/Portfolio-Product-Owner-Cecilia-DI-MAULO-27bd1b694d528029a1e9c2258667a3bf).**
 
 ---
 
