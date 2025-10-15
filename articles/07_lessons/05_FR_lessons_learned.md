@@ -1,6 +1,6 @@
 # J'ai lancé ma boîte et appris ma grossesse la même semaine
 
-## Comment mon échec entrepreneurial est devenu mon meilleur bootcamp de Product Owner
+## Comment mon échec entrepreneurial est devenu mon meilleur bootcamp de Product Manager
 
 ### Ce mercredi matin, 10h32
 
@@ -22,7 +22,7 @@ Créer une entreprise enceinte, c'est un peu comme lancer un produit avec une de
 
 Spoiler : ça n'a pas scalé.
 
-Mais ce que j'ai appris pendant ce sprint condensé vaut tous les bootcamps Product Owner du monde. Voici mes six leçons majeures, présentées avec le recul lucide de quelqu'un qui a survécu à l'aventure et qui a décidé d'en faire son super-pouvoir.
+Mais ce que j'ai appris pendant ce sprint condensé vaut tous les bootcamps Product Manager du monde. Voici mes six leçons majeures, présentées avec le recul lucide de quelqu'un qui a survécu à l'aventure et qui a décidé d'en faire son super-pouvoir.
 
 -----
 
@@ -34,7 +34,7 @@ Mon comptable était une référence. Dans le réseau de mon père. Moi ? J'éta
 
 **Ce que ça m'a appris pour le Product Management :**
 
-Un stakeholder toxique ou incompétent coûte plus cher qu'un bon prestataire. En tant que PO, **mon rôle est de dé-risquer le projet**, et ça commence par le choix des bons partenaires. Cette expérience m'a appris à créer ma propre grille d'évaluation, au-delà des recommandations. Je sais maintenant identifier les red flags :
+Un stakeholder toxique ou incompétent coûte plus cher qu'un bon prestataire. En tant que PM, **mon rôle est de dé-risquer le projet**, et ça commence par le choix des bons partenaires. Cette expérience m'a appris à créer ma propre grille d'évaluation, au-delà des recommandations. Je sais maintenant identifier les red flags :
 
   - Manque de digitalisation = risque de désorganisation.
   - Communication non proactive sur les blockers = absence de culture produit.
@@ -50,7 +50,7 @@ Avant, j'étais ingénieure. Je parlais aux machines. L'entrepreneuriat m'a forc
 
 **Ce que ça m'a appris pour le Product Management :**
 
-L'empathie utilisateur n'est pas un buzzword. C'est une compétence qui se développe en sortant de sa zone de confort. En tant que future PO, je sais poser les bonnes questions et écouter entre les lignes pour différencier le **besoin latent** (le *'job-to-be-done'*) de la **demande explicite** — une distinction fondamentale pour construire un produit à forte valeur. Et surtout, je sais que la meilleure user research est celle menée en continu.
+L'empathie utilisateur n'est pas un buzzword. C'est une compétence qui se développe en sortant de sa zone de confort. En tant que PM, je sais poser les bonnes questions et écouter entre les lignes pour différencier le **besoin latent** (le *'job-to-be-done'*) de la **demande explicite** — une distinction fondamentale pour construire un produit à forte valeur. Et surtout, je sais que la meilleure user research est celle menée en continu.
 
 -----
 
@@ -62,7 +62,7 @@ Créer un site, gérer les réseaux sociaux, produire du contenu, pitcher mon co
 
 **Ce que ça m'a appris pour le Product Management :**
 
-Un produit incroyable qui reste invisible est un produit mort. En tant que Product Owner, je serai aussi responsable du positionnement, du messaging et de la capacité à embarquer les parties prenantes. Savoir pitcher et raconter une histoire pour mettre en valeur ce qui rend le produit unique est une force que j'ai acquise sur le terrain, en me forçant à vendre mes services quand j'aurais préféré me cacher derrière un écran.
+Un produit incroyable qui reste invisible est un produit mort. En tant que Product Manager, je serai aussi responsable du positionnement, du messaging et de la capacité à embarquer les parties prenantes. Savoir pitcher et raconter une histoire pour mettre en valeur ce qui rend le produit unique est une force que j'ai acquise sur le terrain, en me forçant à vendre mes services quand j'aurais préféré me cacher derrière un écran.
 
 -----
 
@@ -74,7 +74,7 @@ Gérer les relations fournisseurs, c'est bien plus que passer des commandes. C'e
 
 **Ce que ça m'a appris pour le Product Management :**
 
-Un Product Owner orchestre un écosystème : tech, business, partenaires externes, API... Savoir identifier les bons stakeholders et négocier des collaborations gagnant-gagnant est une compétence stratégique. La meilleure feature n'est pas toujours celle qu'on développe en interne, mais parfois celle qu'on obtient via le bon partenariat au bon moment.
+Un Product Manager orchestre un écosystème : tech, business, partenaires externes, API... Savoir identifier les bons stakeholders et négocier des collaborations gagnant-gagnant est une compétence stratégique. La meilleure feature n'est pas toujours celle qu'on développe en interne, mais parfois celle qu'on obtient via le bon partenariat au bon moment.
 
 -----
 
@@ -88,7 +88,7 @@ Et c'est de cette prise de conscience qu'est né **Carhorsel**, l'étude de cas 
 
 **Ce que ça m'a appris pour le Product Management :**
 
-Un Product Owner qui ne comprend pas son propre "why" risque de construire des produits désalignés. Cette recherche de mon propre **'Product-Market Fit' personnel** est ce qui me garantit aujourd'hui de pouvoir construire des produits alignés, porteurs de sens pour les utilisateurs et pour l'équipe. Cette clarté-là, elle vaut tous les frameworks agiles du monde.
+Un Product Manager qui ne comprend pas son propre "why" risque de construire des produits désalignés. Cette recherche de mon propre **'Product-Market Fit' personnel** est ce qui me garantit aujourd'hui de pouvoir construire des produits alignés, porteurs de sens pour les utilisateurs et pour l'équipe. Cette clarté-là, elle vaut tous les frameworks agiles du monde.
 
 -----
 
@@ -110,18 +110,22 @@ Quand je regarde cette année entrepreneuriale, je ne vois plus un échec. Je vo
 
 Je comprends la tech. Je comprends le business. Je comprends l'humain. Et je sais que ces trois dimensions ne peuvent être traitées séparément.
 
-Mon entreprise de saddle-fitting a fermé, mais ce qu'elle m'a appris continue de nourrir ma vision produit. Et franchement, c'est peut-être la meilleure chose qui pouvait m'arrriver.
-<br>
+Mon entreprise de saddle-fitting a fermé, mais ce qu'elle m'a appris continue de nourrir ma vision produit. Et franchement, c'est peut-être la meilleure chose qui pouvait m'arriver.
 
 -----
 
-<br>
-**À propos de moi**
+**Et vous, quel "échec" vous a le plus forgé ?**
 
-Je suis Cecilia, ex-Chaos Engineer, ex-entrepreneure, et future Product Owner. De l'infrastructure cloud aux selles mal ajustées, j'ai appris que tout est question de systèmes complexes à apprivoiser.
+Partagez vos pivots et vos learnings en commentaire. Parce que les meilleures compétences se forgent dans l'adversité.
 
-Je serai disponible pour de nouvelles opportunités en Product Management dès novembre/décembre 2025.
+-----
 
-Mon thé est froid, mais ma vision produit est prête à être déployée.
+## À propos de moi
 
-**[Découvrez comment dans mon portfolio](https://bit.ly/cecilia-portfolio-medium)**
+Je suis Cecilia, ex-Chaos Engineer chez ManoMano, ex-ingénieure Cloud chez Ubisoft, ex-entrepreneure en saddle-fitting équin, et **Product Manager en devenir**. De l'infrastructure cloud aux selles mal ajustées, j'ai appris que tout est question de systèmes complexes à apprivoiser.
+
+**Je suis disponible immédiatement (ou dès qu'une place en crèche se libère) pour de nouvelles opportunités Product Manager.**
+
+Si vous voulez voir comment je traduis ces compétences en méthodologie produit concrète, **[mon portfolio est par ici](https://tar-hawk-fa8.notion.site/Portfolio-Product-Owner-Cecilia-DI-MAULO-27bd1b694d528029a1e9c2258667a3bf)**.
+
+Mon thé est froid, mais ma vision produit est prête à être déployée. ☕🔥

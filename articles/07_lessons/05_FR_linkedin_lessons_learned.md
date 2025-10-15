@@ -1,15 +1,15 @@
 J'ai lancé ma boîte un mardi. J'ai appris ma grossesse le mercredi.
-Spoiler : ça n'a pas fonctionné comme prévu.
-
-Mais cet échec entrepreneurial est devenu le meilleur bootcamp de Product Owner que je n'aurais jamais pu m'offrir. Il m'a tout appris "the hard way" :
-- La gestion des parties prenantes (surtout les toxiques)
-- La user research en conditions extrêmes
-- L'art de pivoter quand tout s'effondre
-
-J'ai transformé cette aventure en 6 leçons concrètes pour le Product Management. Une histoire de résilience, de thé froid et de vision produit.
-
-Lisez l'article complet ici : [Lien vers votre article]
-
-Et vous, quelle est l'erreur professionnelle qui vous a le plus appris ?
-
-#ProductManagement #ProductOwner #PO #Entrepreneuriat #Reconversion #Tech #WomenInTech #Portfolio #LeçonsApprises
+Timing impeccable. Vraiment.
+Spoiler : ça n'a pas scalé. Mais cet échec entrepreneurial est devenu le bootcamp le plus intense que je n'aurais jamais pu m'offrir.
+6 leçons forgées dans le feu :
+→ Stakeholder management (détecter les toxiques avant qu'ils ne sabotent)
+→ User research en conditions extrêmes (timide + enceinte + secteur de niche)
+→ L'art du pivot (quand tout s'effondre, transformer la chute en tremplin)
+→ Marketing & self-promotion (de zéro visibilité à leader du secteur en 1 an)
+→ Supply chain & vendor management (négocier avec des acteurs établis)
+→ Auto-connaissance comme Product-Market Fit personnel
+Je ne raconte pas un échec. Je raconte comment j'ai transformé une fermeture en arsenal de compétences PM.
+Article complet ici : [Lien]
+Je suis disponible immédiatement (ou dès qu'une place en crèche se libère) pour de nouvelles opportunités Product Manager.
+Et vous, quel "échec" vous a le plus forgé ?
+#ProductManagement #PM #ProductManager #Entrepreneuriat #Reconversion #Tech #WomenInTech #Portfolio #Résilience #LessonsLearned
