@@ -49,19 +49,19 @@ The founding manifesto. The moment I decided to stop choosing between my identit
 
 *The pivot. Here, I no longer just describe the chaos. I show you how I master it and turn it into strategies and tools.*
 
-**Article 5: [7:30 PM, When My Real Sprint Begins](link)**
+**Article 5: [7:30 PM, When My Real Productive Sprint Begins](https://medium.com/@cecidimaulo/7-30-pm-when-my-real-productive-sprint-begins-8c0a74c9921f)**
 **THE PIVOT ARTICLE.** The manifesto that changes everything. This is not a sprint for survival. It's a sprint for construction. This is where I go to war.
 
-**Article 6: Parental Chaos Engineering** — *November 2025*
+**Article 6: [Parental Chaos Engineering](https://medium.com/@cecidimaulo/chaos-engineering-55beceb81d21)** — *November 2025*
 *Skill: System Resilience.* At ManoMano, I injected failures to test systems. Today, my children do it for me, and it teaches me how to build products that don't break.
 
-**Article 7: I Launched My Company and Learned I Was Pregnant in the Same Week** — *November 2025*
+**Article 7: [I Launched My Company and Found Out I Was Pregnant in the Same Week](https://medium.com/@cecidimaulo/i-launched-my-company-and-found-out-i-was-pregnant-the-same-week-affe5c163856)** — *November 2025*
 *Skill: Strategy & Pivoting.* How my entrepreneurial failure became my best Product Manager bootcamp.
 
-**Article 8: The Family Tech Stack** — *December 2025*
+**Article 8: [The Family Tech Stack][lien-stack-en]** — *December 2025*
 *Skill: Build vs. Buy Decisions.* From the stroller to the washing machine, every choice is a strategic product decision with an ROI to calculate.
 
-**Article 9: My Own Pensieve** — *December 2025*
+**Article 9: [My Own Pensieve][lien-pensine-en]** — *December 2025*
 *Skill: Methodology & Capitalization.* The making-of the series. How I methodically turn raw anecdotes into proof of skills. My system for turning chaos into a portfolio.
 
 ### Who is this series for?
@@ -78,7 +78,7 @@ Your "non-professional" experiences aren't gaps in your resume. They are hidden 
 
 * **The Prologue:** Start with Article 0. It lays the foundation for the quest.
 * **The Trials:** Dive into Phase 1 (Articles 1-4) to understand the terrain.
-* **The Revelation:** Read Article 5, "7:30 PM, When My Real Sprint Begins". It's the heart of the transformation.
+* **The Revelation:** Read Article 5, "7:30 PM Sprint". It's the heart of the transformation.
 * **The Arsenal:** Explore Phase 2 to see the weapons I've forged.
 * **The Treasure:** My Product Manager portfolio is the final destination. It's where the quest becomes a concrete service offering.
 

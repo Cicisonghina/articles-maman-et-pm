@@ -49,19 +49,19 @@ Le manifeste fondateur. Le moment où j'ai décidé d'arrêter de choisir entre 
 
 *Le pivot. Ici, je ne décris plus le chaos. Je vous montre comment je le maîtrise et le transforme en stratégies et en outils.*
 
-**Article 5 : [19h30, quand mon vrai sprint commence](lien)**
+**Article 5 : [19h30, quand mon vrai sprint commence](https://medium.com/@cecidimaulo/quand-mon-sprint-commence-89c14b45f90d)**
 **L'ARTICLE PIVOT.** Le manifeste qui change tout. Ce n'est pas un sprint de survie. C'est un sprint de construction. C'est là que je pars en guerre.
 
-**Article 6 : Chaos Engineering parental** — *Novembre 2025*
+**Article 6 : [Chaos Engineering parental](https://medium.com/@cecidimaulo/chaos-engineering-a39eed627669)** — *Novembre 2025*
 *Compétence : Résilience des systèmes.* Chez ManoMano, j'injectais des pannes pour tester les systèmes. Aujourd'hui, mes enfants s'en chargent, et ça m'apprend à construire des produits qui ne cassent pas.
 
-**Article 7 : J'ai lancé ma boîte et appris ma grossesse la même semaine** — *Novembre 2025*
+**Article 7 : [J'ai lancé ma boîte et appris ma grossesse la même semaine](https://medium.com/@cecidimaulo/appris-ma-grossesse-la-meme-semaine-a961c9aa0238)** — *Novembre 2025*
 *Compétence : Stratégie & Pivot.* Comment mon échec entrepreneurial est devenu mon meilleur bootcamp de Product Manager.
 
-**Article 8 : La Stack Technique familiale** — *Décembre 2025*
+**Article 8 : [La Stack Technique familiale][lien-stack-fr]** — *Décembre 2025*
 *Compétence : Décision Build vs. Buy.* De la poussette au lave-linge, chaque choix est une décision produit stratégique avec un ROI à calculer.
 
-**Article 9 : Ma Pensine à Moi** — *Décembre 2025*
+**Article 9 : [Ma Pensine à Moi][lien-pensine-fr]** — *Décembre 2025*
 *Compétence : Méthodologie & Capitalisation.* Le making-of de la série. Comment je transforme méthodiquement les anecdotes brutes en preuves de compétences. Mon système pour transformer le chaos en portfolio.
 
 ### Pour qui est cette série ?
