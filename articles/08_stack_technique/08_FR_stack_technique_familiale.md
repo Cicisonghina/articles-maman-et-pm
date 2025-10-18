@@ -52,7 +52,7 @@ Anticiper les besoins futurs n'est pas un luxe ; c'est du pragmatisme. Reporter 
 
 ## La mentalité "Build" : Quand aucune solution n'existe sur le marché
 
-Durant mon aventure entrepreneuriale, j'ai côtoyé des professionnels dont les besoins n'ont jamais été adressés par la tech. C'est de là qu'est née l'idée de **Carhorsel** : une plateforme pour optimiser les tournées des saddle-fitters. Nous avons choisi de **construire** car aucun outil ne résolvait ce problème spécifique.
+Durant mon aventure entrepreneuriale ([lue ici](https://medium.com/@cecidimaulo/appris-ma-grossesse-la-meme-semaine-a961c9aa0238)), j'ai côtoyé des professionnels dont les besoins n'ont jamais été adressés par la tech. C'est de là qu'est née l'idée de **Carhorsel** : une plateforme pour optimiser les tournées des saddle-fitters. Nous avons choisi de **construire** car aucun outil ne résolvait ce problème spécifique.
 
 **Ce que ça forge en moi comme PM :**
 

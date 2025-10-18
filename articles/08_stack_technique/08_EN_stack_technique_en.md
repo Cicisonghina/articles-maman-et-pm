@@ -52,7 +52,7 @@ Anticipating future needs isn't a luxury; it's pragmatism. Postponing a necessar
 
 ## The "Build" Mentality: When No Solution Exists
 
-During my entrepreneurial adventure, I encountered professionals whose needs had never been addressed by tech. This led to the idea for **Carhorsel**, a platform to optimize saddle-fitters' routes. We chose to **build** because no existing tool solved this specific problem.
+During my entrepreneurial adventure ([read about it here](https://medium.com/@cecidimaulo/i-launched-my-company-and-found-out-i-was-pregnant-the-same-week-affe5c163856)), I encountered professionals whose needs had never been addressed by tech. This led to the idea for **Carhorsel**, a platform to optimize saddle-fitters' routes. We chose to **build** because no existing tool solved this specific problem.
 
 **What this forges in me as a PM:**
 
@@ -66,7 +66,7 @@ Buying a solution is never "buy and forget." A €1,200 washing machine that bre
 
 **What this forges in me as a PM:**
 
-When evaluating a solution, never look just at the acquisition cost. Look at the total cost over 3 years: maintenance, scalability, obsolescence risk. A good PM thinks in TCO, not in purchase price.
+When evaluating a solution (Buy or Build), never look just at the acquisition cost. Look at the total cost over 3 years: maintenance, scalability, obsolescence risk. A good PM thinks in TCO, not in purchase price.
 
 ---
 

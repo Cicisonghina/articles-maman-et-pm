@@ -20,8 +20,8 @@ Mon CV ressemblait à un zigzag. Dans ma tête, je me sentais illégitime à vis
 
 Et puis un soir, j'ai eu une révélation : **toutes ces expériences que je vivais au quotidien, c'était exactement les compétences qu'on attend d'un PM.**
 
-Gérer des stakeholders imprévisibles ? ✅ Mes enfants.  
-Prioriser sous contrainte extrême ? ✅ Tous les soirs à 19h30.  
+Gérer des stakeholders imprévisibles ? ✅ Mes enfants.
+Prioriser sous contrainte extrême ? ✅ Tous les soirs à 19h30.
 Pivoter en temps réel ? ✅ Quand le plan bain-pyjama-dodo part en vrille.
 
 Le problème, c'est que ces compétences étaient invisibles. J'avais besoin d'une Pensine.
@@ -61,6 +61,12 @@ Mon workflow est un moteur de transformation :
 4.  **Rédaction article** → Le souvenir devient un récit structuré
 5.  **Intégration portfolio** → L'article devient une preuve tangible
 
+**Exemples concrets :**
+- L'anecdote "nuits hachées" → Article "[**Nuits InfernalOps**](https://medium.com/@cecidimaulo/nuits-infernalops-quand-mon-b%C3%A9b%C3%A9-devient-ladmin-sys-de-mes-cauchemars-2a4a3223ba42)" → Preuve d'incident management
+- L'anecdote "jument Vazy stressée" → Article "[**Debug Jument**](https://medium.com/@cecidimaulo/debug-dune-jument-stress%C3%A9e-ca6ef7f0c752)" → Preuve d'empathie utilisateur
+- L'anecdote "migraine 17h" → Article "[**Resource Management**](https://medium.com/@cecidimaulo/ressource-management-parental-0e3eb066855d)" → Preuve de gestion ressources limitées
+- L'anecdote "dashboard mental" → Article "[**Monitoring Familial**](https://medium.com/@cecidimaulo/product-owner-de-deux-tornades-humaines-fe6629a2de49)" → Preuve de capacité d'observabilité
+
 Ma Pensine n'est pas juste un outil de réflexion. C'est un **moteur qui transforme mes expériences quotidiennes en un portfolio professionnel.**
 
 ---
@@ -79,7 +85,7 @@ Ma Pensine a transformé mes expériences en portfolio. Je suis maintenant prêt
 
 Si vous cherchez une Product Manager qui sait analyser, structurer, raconter, et surtout : **transformer le chaos en roadmap**... discutons-en.
 
-**[Découvrez mon portfolio complet ici](https://bit.ly/cecilia-portfolio-medium)**
+**[Découvrez mon portfolio complet ici](https://tar-hawk-fa8.notion.site/Portfolio-Product-Owner-Cecilia-DI-MAULO-27bd1b694d528029a1e9c2258667a3bf)**
 
 ---
 

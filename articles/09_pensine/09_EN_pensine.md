@@ -61,6 +61,12 @@ My workflow is a transformation engine:
 4.  **Article Writing** → The memory becomes a structured narrative
 5.  **Portfolio Integration** → The article becomes tangible evidence
 
+**Concrete Examples:**
+- "Sleepless nights" anecdote → "[**InfernalOps**](https://medium.com/@cecidimaulo/infernalops-nights-480eca32629f)" article → Proof of incident management
+- "Stressed mare Vazy" anecdote → "[**Debugging Mare**](https://medium.com/@cecidimaulo/debugging-a-stressed-mare-50f70f98c644)" article → Proof of user empathy
+- "5 PM headache" anecdote → "[**Resource Management**](https://medium.com/@cecidimaulo/parental-resource-management-14c5c6192ec1)" article → Proof of managing limited resources
+- "Mental dashboard" anecdote → "[**Monitoring Family**](https://medium.com/@cecidimaulo/being-a-mom-made-me-a-better-product-owner-my-5-survival-metrics-073c22990cee)" article → Proof of observability skills
+
 My Pensieve is not just a reflection tool. It's an **engine that turns my daily experiences into a professional portfolio.**
 
 ---
@@ -79,7 +85,7 @@ My Pensieve has turned my experiences into a portfolio. I am now ready to turn t
 
 If you are looking for a Product Manager who knows how to analyze, structure, narrate, and above all: **transform chaos into a roadmap**... let's talk.
 
-**[Discover my complete portfolio here](https://bit.ly/cecilia-portfolio-medium)**
+**[Discover my complete portfolio here](https://tar-hawk-fa8.notion.site/Portfolio-Product-Owner-Cecilia-DI-MAULO-27bd1b694d528029a1e9c2258667a3bf)**
 
 ---
 
